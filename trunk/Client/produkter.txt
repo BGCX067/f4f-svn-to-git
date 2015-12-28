@@ -1,0 +1,4 @@
+EAN	Produkt	Pris
+115358	Arie Tvättmed Color ref 1 l	33.5
+122065	Libero Blöjor S2	92.50
+442023	Yes Dsikmedel 0.7l	18,50	
